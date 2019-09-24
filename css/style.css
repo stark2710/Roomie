@@ -8353,7 +8353,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    opacity: .4;
+    opacity: .7;
     background: #000000;
     background: #207dff;
     background: -moz-linear-gradient(left, #207dff 0%, #a16ae8 100%);
